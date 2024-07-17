@@ -162,3 +162,4 @@ cython_debug/
 #.idea/
 
 .DS_Store
+.virtual_documents/labs/lab1/lab1.ipynb
